@@ -1,7 +1,7 @@
 ## Welcome 👋
 I am glad that you found your way to my GitHub! 
 I am currently in Statistics Honours so I am learning about how to use this platform. 
-/✨ Hope you have a lovely day ✨
+✨ Hope you have a lovely day ✨
 <!--
 **NatBlom/NatBlom** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
